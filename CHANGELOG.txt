@@ -1,0 +1,19 @@
+=============================
+Modul Om_FastAccess Changelog
+=============================
+
+Version 1.0.1 stable (2016-??-??)
+---------------------------------
+-Changed: Complete code review
+
+
+Version 1.0.0 beta1 (2012-11-03)
+-------------------------------
+- Added: compatibility for contao 3.0
+- Added: english translation
+- Fixed: wrong paths if installation is in a subdirectory
+
+
+Version 0.0.1 alpha1 (2012-03-03)
+---------------------------------
+- first release
